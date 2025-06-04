@@ -152,6 +152,7 @@ export default function Page() {
             <div>
               <h6>Active Users</h6>
               <p className='text-[10px]'><span className='text-green-700'>+5</span> than last week</p>
+              <h1>hello</h1>
             </div>
             <div className="flex justify-between mt-4">
               {stats.map((item, idx) => (
